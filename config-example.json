@@ -14,7 +14,7 @@
   "posting_key": "5KcAWZaJ8tgvv9Cwg2UgaBh4o3ahBfRTZzwJtg8zANebLUboub5",
   "active_key": "5K1WeydpxZvNrzXAkutEmmnnWjB2BfS3WXNGLAcMqoh4hTgtY24",
   "auto_claim_rewards" : true,
-  "post_rewards_withdrawal_account": "withdraw_liquid_post_rewards_to_account",
+  "post_rewards_withdrawal_account": "yaamitonmoy",
   "min_bid": 0.01,
   "max_bid": 999,
   "batch_vote_weight": 100,
