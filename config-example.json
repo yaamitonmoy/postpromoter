@@ -52,7 +52,7 @@
     "port": 3000
   },
   "config": { 
-    "min_bid_sbd": 0.01, "bid_window": 2.4, "comments": True, "pre_vote_group_url": 'https://steemit.com/@yaamitonmoy' 
+    "min_bid_sbd": 0.01, "bid_window": 2.4, "comments": false, "pre_vote_group_url": 'https://steemit.com/@yaamitonmoy' 
   },
   "transfer_memos": {
     "bot_disabled": "Refund for invalid bid: {amount} - The bot is currently disabled.",
