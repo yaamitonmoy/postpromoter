@@ -10,9 +10,9 @@
   "detailed_logging": false,
   "owner_account": "Yaamitonmoy",
   "account": "yaamitonmoy",
-  "memo_key": "5KkAZaaiANC1qiryPhAcxYBrYVFMs62sfFknA6NZCjCwhJBiN9g",
-  "posting_key": "5KcAWZaJ8tgvv9Cwg2UgaBh4o3ahBfRTZzwJtg8zANebLUboub5",
-  "active_key": "5K1WeydpxZvNrzXAkutEmmnnWjB2BfS3WXNGLAcMqoh4hTgtY24",
+  "memo_key": "",
+  "posting_key": "",
+  "active_key": "",
   "auto_claim_rewards" : true,
   "post_rewards_withdrawal_account": "yaamitonmoy",
   "min_bid": 0.01,
@@ -50,9 +50,6 @@
   "api": {
     "enabled": true,
     "port": 3000
-  },
-  "config": { 
-    "min_bid_sbd": 0.01, "bid_window": 2.4, "comments": false, "pre_vote_group_url": 'https://steemit.com/@yaamitonmoy' 
   },
   "transfer_memos": {
     "bot_disabled": "Refund for invalid bid: {amount} - The bot is currently disabled.",
